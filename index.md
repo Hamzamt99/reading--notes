@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# reading-notes
+# growth mindset
+*Summary*
 
-You can use the [editor on GitHub](https://github.com/Hamzamt99/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A **growth mindset** holds that one's core skills may be developed via hard work and dedication; intelligence and talent are just beginning points. A passion of learning is linked with a development mentality.
+In a fixed mentality, on the other hand, intellect and skill are regarded as fixed attributes, implying that success is based only on these natural abilities, with no need for additional growth or effort.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reminders to keep my slef in the **growth mindset**:
 
-### Markdown
+*Intelligence*
+*effort*
+*perseverance*
+*learning*
+|Name|Age|Major|
+|-----|--|-----------------|
+|Hamza|22|Software Engineer|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[Email](https://mail.google.com/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hamzamt99/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Gmail Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsj0IaimLQXDp99teX1fX-zp2HcpWwn0hgLA&usqp=CAU)
