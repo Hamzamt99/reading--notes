@@ -1,5 +1,5 @@
-# reading-notes
-# growth mindset
+# Reading-notes
+## Growth mindset
 *Summary*
 
 A **growth mindset** holds that one's core skills may be developed via hard work and dedication; intelligence and talent are just beginning points. A passion of learning is linked with a development mentality.
