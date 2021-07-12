@@ -7,10 +7,15 @@ In a fixed mentality, on the other hand, intellect and skill are regarded as fix
 
 Reminders to keep my slef in the **growth mindset**:
 
-*Intelligence*
-*effort*
-*perseverance*
-*learning*
+1-*Intelligence*
+
+2-*effort*
+
+3-*perseverance*
+
+4-*learning*
+
+
 |Name|Age|Major|
 |-----|--|-----------------|
 |Hamza|22|Software Engineer|
