@@ -14,7 +14,11 @@ Multiple developers are usually working on a project at the same time in real li
 
 Furthermore, the needs for such initiatives are always changing. As a result, a version control system enables engineers to revert to a previous version of the code.
 
+
 Finally, the same codebase is used by many projects that are running in parallel. The idea of branching in Git is critical in this situation.
 
 ### what is the remote control in Git :
 A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not 
+
+Finally, the same codebase is used by many projects that are running in parallel. The idea of branching in Git is critical in this situation.
+
