@@ -1,7 +1,7 @@
 # What is HTML?
 *HTML is a computer language that was created to enable for the development of websites. These websites can then be seen by anybody with an Internet connection. It is quite simple to learn, with most people being able to grasp the fundamentals in a single sitting; yet it is rather powerful in terms of what it allows you to produce. Under the guidance of the « W3C, the organization tasked with creating and maintaining the language, it is continuously being revised and evolved to suit the expectations and requirements of the increasing Internet audience.*
 
-[HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUR_pVKk5yF36eVz8BDSzeL-P0b-qffSkQg&usqp=CAU)
+![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUR_pVKk5yF36eVz8BDSzeL-P0b-qffSkQg&usqp=CAU)
 
 #### The definition of HTML is HyperText Markup Language.
 
