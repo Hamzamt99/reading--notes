@@ -63,4 +63,4 @@
 | **Name of The Read** | **Link** |
 |------------------|------|
 
-## |401 page|[401.md]((https://github.com/Hamzamt99/reading-notes/blob/main/401.md))|
+## |401 page|[401.md](https://github.com/Hamzamt99/reading-notes/blob/main/401.md)|
