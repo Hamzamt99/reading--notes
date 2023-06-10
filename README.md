@@ -1,13 +1,64 @@
-## *Intro*:smiley:
+# Introduction:
 
-Hello my Nmae is Hamza and im 22 years old i study a software engineer at Ltuc and its my last semester in the college
+#### Hello My name is Hamza Tamari, I'm 24 years old <br>I got into this program to gain knowledge and build more skills.
+#### [Github  Profile](https://github.com/Hamzamt99)
 
-|Name|Link
-|-----|-----
-|GrothMindset|[Go to the GrothMindset](https://hamzamt99.github.io/reading-notes/GrothMindset)
-| read01| [go to the read01](https://hamzamt99.github.io/reading-notes/read01)
-|read02|[go to the read02](https://hamzamt99.github.io/reading-notes/read02)
-|read03|[go to read03](https://hamzamt99.github.io/reading-notes/read03)
-|read04|[go to read04](https://hamzamt99.github.io/reading-notes/read04) 
-|read05|[got to read05](https://hamzamt99.github.io/reading-notes/read05)
+## Table Of Content:
 
+### Code 102 - Intro to software development
+
+| **Name of The Read** | **Link** |
+|------------------|------|
+| Growth Mindset | [growthMindset]|
+| Read_01 | [Read_01]|
+| Read_02 | [Read_02]|
+| Read_03 | [Read_03]|
+| Read_04 | [Read_04]|
+| Read_05 | [Read_05]|
+| Read_06 | [Read_06]|
+| Read_07 | [Read_07]|
+
+
+### Code 201 - Foundations of Software Development
+
+| **Name of The Read** | **Link** |
+|------------------|------|
+|Class_01|[Class_01]|
+|Class_02|[Class_02]|
+|Class_03|[Class_03]|
+|Class_04|[Class_04]|
+|Class_05|[Class_05]|
+|Class_06|[Class_06]|
+|Class_07|[Class_07]|
+|Class_08|[Class_08]|
+|Class_09|[Class_09]|
+|Class_10|[Class_10]|
+|Class_11|[Class_11]|
+|Class_12|[Class_12]|
+|Class_13|[Class_13]|
+|Class_14a|[Class_14a]|
+|Class_14b|[Class_14b]|
+
+### Code 301 - Intermediate Software Development
+
+| **Name of The Read** | **Link** |
+|------------------|------|
+|Class_01|[Class_01]|
+|Class_02|[Class_02]|
+|Class_03|[Class_03]|
+|Class_04|[Class_04]|
+|Class_05|[Class_05]|
+<!-- |Class_06|[Class_06]| -->
+<!-- |Class_07|[Class_07]| -->
+<!-- |Class_08|[Class_08]| -->
+<!-- |Class_09|[Class_09]| -->
+<!-- |Class_10|[Class_10]| -->
+<!-- |Class_11|[Class_11]| -->
+<!-- |Class_12|[Class_12]| -->
+<!-- |Class_13|[Class_13]| -->
+<!-- |Class_14|[Class_14]| -->
+
+### Code 401 - Advanced Software Development
+
+| **Name of The Read** | **Link** |
+|------------------|------|
