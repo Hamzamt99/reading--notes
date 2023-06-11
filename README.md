@@ -64,4 +64,4 @@
 |------------------|------|
 |READ_1_a|[Read_1_a.md](https://hamzamt99.github.io/reading-notes/reading-notes/Read_1_a.md[https://hamzamt99.github.io/reading-notes/reading-notes/Read_1_a.md])
 
-## |401 page|[401.md]([https://github.com/Hamzamt99/reading-notes/blob/main/401.md](https://hamzamt99.github.io/reading-notes/401.md))|
+## |401 page|[401.md]([https://hamzamt99.github.io/reading-notes/401.md](https://hamzamt99.github.io/reading-notes/401.md))|
