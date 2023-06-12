@@ -48,20 +48,13 @@
 |Class_03|[Class_03]|
 |Class_04|[Class_04]|
 |Class_05|[Class_05]|
-<!-- |Class_06|[Class_06]| -->
-<!-- |Class_07|[Class_07]| -->
-<!-- |Class_08|[Class_08]| -->
-<!-- |Class_09|[Class_09]| -->
-<!-- |Class_10|[Class_10]| -->
-<!-- |Class_11|[Class_11]| -->
-<!-- |Class_12|[Class_12]| -->
-<!-- |Class_13|[Class_13]| -->
-<!-- |Class_14|[Class_14]| -->
+
 
 ### Code 401 - Advanced Software Development
 
 | **Name of The Read** | **Link** |
 |------------------|------|
-|READ_1_a|[Read_1_a.md](https://hamzamt99.github.io/reading-notes/reading-notes/Read_1_a.md)
+
+## |READ_1_a|[Read_1_a.md](https://hamzamt99.github.io/reading-notes/reading-notes/Read_1_a.md)
 
 ## |401 page|[401.md](https://hamzamt99.github.io/reading-notes/reading-notes/401.md)|
