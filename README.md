@@ -53,7 +53,6 @@
 ### Code 401 - Advanced Software Development
 
 | **Name of The Read** | **Link** |
-|------------------|------|
 
 ## |READ_1_a|[Read_1_a.md](https://hamzamt99.github.io/reading-notes/reading-notes/Read_1_a.md)
 
