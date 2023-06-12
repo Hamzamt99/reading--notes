@@ -19,6 +19,6 @@
 ### Code 401 - Advanced Software Development
 
 
-[Node Ecosystem](https://hamzamt99.github.io/reading-notes/401-read/Node-Ecosystem.md)
+[Node Ecosystem](./401-read/Node-Ecosystem.md)
 
-[Mindset](https://hamzamt99.github.io/reading-notes/401-read/Mindset.md)
+[Mindset](./401-read/Mindset.md)
