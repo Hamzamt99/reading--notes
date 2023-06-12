@@ -57,11 +57,11 @@
 
 | **Name of The Read** | **Link** |
 |------------------|------|
-|[Node Ecosystem][Node Ecosystem]|(./401-read/Node-Ecosystem.md)|
-|[Mindset][Mindset]|(./401-read/Mindset.md)|
+|[Node Ecosystem]|[Node Ecosystem](./401-read/Node-Ecosystem.md)|
+|[Mindset]|[Mindset](./401-read/Mindset.md)|
 
 #### Classes Table
 
 | **Name of The Class** | **Link** |
 |------------------|------|
-|[Node Ecosystem, CI, CD][Render Link]|(https://server-deployment-b8tl.onrender.com/)|
+|[Node Ecosystem, CI, CD]|[Render Link](https://server-deployment-b8tl.onrender.com/)|
