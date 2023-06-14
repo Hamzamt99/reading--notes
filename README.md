@@ -61,6 +61,7 @@
 |[Mindset]|[Mindset](./401-read/Mindset.md)|
 |[Data-Structures-and-Algorithms]|[Data-Structures-and-Algorithms](./401-read/Data-Structures-and-Algorithms.md)|
 |[Express-REST-API]|[Express-REST-API](./401-read/Express-REST-API.md)|
+|[Linked List]|[Linked List](./401-read/linkedList.md)|
 
 #### Classes Table
 
@@ -68,6 +69,7 @@
 |------------------|------|
 |[Node Ecosystem, CI, CD]|[Repo Link](https://github.com/Hamzamt99/server-deployment-practice/blob/main/README.md)|
 |[Express]|[Express](https://github.com/Hamzamt99/basic-express-server/blob/main/README.md)|
+
 ## Things I want to know more about
 
 1- *unit testing* 
