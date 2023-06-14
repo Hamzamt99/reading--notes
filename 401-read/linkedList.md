@@ -6,12 +6,13 @@
 ### The last node in the list typically points to null or has a null reference, indicating the end of the list.
 
 ## Here's an example of a simple linked list:
-Node 1       Node 2       Node 3       Node 4
-+------+    +------+    +------+    +------+
-|  12  |    |  8   |    |  23  |    |  6   |
-+------+    +------+    +------+    +------+
-| next |--> | next |--> | next |--> | null |
-+------+    +------+    +------+    +------+
+| Node        | Value | Next  |
+|-------------|-------|-------|
+| Head        | 10    | Node2 |
+| Node2       | 20    | Node3 |
+| Node3       | 30    | Node4 |
+| Node4       | 40    | Null  |
+| Tail        | 40    | Null  |
 
 ## Why use linked lists?
 ### Linked lists are a fundamental data structure used in computer science and programming. They are particularly useful when you need dynamic data storage with efficient insertion and deletion operations. Some of the main reasons to use linked lists include:
