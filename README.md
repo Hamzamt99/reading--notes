@@ -66,7 +66,7 @@
 
 | **Name of The Class** | **Link** |
 |------------------|------|
-|[Node Ecosystem, CI, CD]|[Render Link](https://server-deployment-b8tl.onrender.com/)|
+|[Node Ecosystem, CI, CD]|[Repo Link](https://github.com/Hamzamt99/server-deployment-practice/blob/main/README.md)|
 
 ## Things I want to know more about
 
