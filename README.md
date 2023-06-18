@@ -75,3 +75,4 @@
 ## Things I want to know more about
 
 1- *unit testing* 
+2- *sql modeling techniques*
