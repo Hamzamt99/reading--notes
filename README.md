@@ -64,6 +64,7 @@
 |[Linked-List]|[Linked-List](./401-read/linkedList.md)|
 |[Data-Modeling]|[Data-Modeling](./401-read/Data-Modeling.md)|
 |[Authentication]|[Authentication](./401-read/Authentication.md)|
+|[Bearer-Authorization]|[Bearer-Authorization](./401-read/jwt.md)|
 
 
 #### Classes Table
