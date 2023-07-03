@@ -66,7 +66,7 @@
 |[Authentication]|[Authentication](./401-read/Authentication.md)|
 |[Bearer-Authorization]|[Bearer-Authorization](./401-read/jwt.md)|
 |[Access-Control]|[Access-Control](./401-read/Access-Control.md)|
-|[Authorization-Authentication.md]|[Authorization-Authentication.md](./401-read/Authorization-Authentication.md)|
+|[Authorization-Authentication]|[Authorization-Authentication](./401-read/Authorization-Authentication.md)|
 
 
 #### Classes Table
