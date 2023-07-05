@@ -67,10 +67,11 @@
 |[Bearer-Authorization]|[Bearer-Authorization](./401-read/jwt.md)|
 |[Access-Control]|[Access-Control](./401-read/Access-Control.md)|
 |[Authorization-Authentication]|[Authorization-Authentication](./401-read/Authorization-Authentication.md)|
+|[Stacks-Queues]|[Stacks-Queues](./401-read/Stacks-Queues.md)|
 
 
 #### Classes Table
-
+Stacks-Queues.md
 | **Name of The Class** | **Link** |
 |------------------|------|
 |[Node Ecosystem, CI, CD]|[Repo Link](https://github.com/Hamzamt99/server-deployment-practice/blob/main/README.md)|
