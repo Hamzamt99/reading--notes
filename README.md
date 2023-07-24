@@ -73,6 +73,8 @@
 |[Trees]|[Trees](./401-read/Trees.md)|
 |[AWS]|[Aws](./401-read/AWS.md)|
 |[AWS-S3]|[AWS-S3](./401-read/AWS-S3-Lambda.md)|
+|[AWS-API-Dynamo]|[AWS-API-Dynamo](./401-read/AWS-API-Dynamo.md)|
+
 
 
 
