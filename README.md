@@ -75,6 +75,7 @@
 |[AWS-S3]|[AWS-S3](./401-read/AWS-S3-Lambda.md)|
 |[AWS-API-Dynamo]|[AWS-API-Dynamo](./401-read/AWS-API-Dynamo.md)|
 |[AWS-Events]|[AWS-Events](./401-read/AWS-Events.md)|
+|[Component based UI]|[Component based UI](./401-read/Component-Based-UI.md)|
 
 
 
