@@ -48,3 +48,24 @@
 3- State Lifting
 4- Redux or State Management Libraries
 5- Event Emitter Libraries
+
+## What are the three steps of refreshing a React UI?
+
+### 1- State or Prop Update: 
+#### React components render based on their state and props. If you want to refresh a UI element, you might need to update the state or props that the component relies on.
+### 2-Re-Rendering: 
+#### Once you've updated the state or props, React automatically triggers a re-render of the component.
+### 3- Virtual DOM Reconciliation: 
+#### React uses a Virtual DOM to efficiently update the actual DOM. 
+
+## How do you trigger updates to a component after the initial render?
+### In React, after the initial render of a component, updates can be triggered by modifying the component's state or by changing the props that the component receives
+
+## Does React recreate DOM nodes on every rerender?
+### No, React does not recreate DOM nodes on every re-render. React optimizes the process of updating the DOM by using a concept called the Virtual DOM.
+
+## After React has updated the DOM, what still needs to happen before the user sees the change?
+#### 1- Layout and Paint
+#### 2- Reflow and Repaint
+#### 3- Frames and Animation:
+
