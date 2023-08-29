@@ -78,7 +78,9 @@
 |[Component based UI]|[Component based UI](./401-read/Component-Based-UI.md)|
 |[useState]|[useState](./401-read/useState-Hook.md)|
 |[useEffect]|[useEffect](./401-read/useEffect.md)|
-|[useReducer]|[useReducer](./401-read/useReducer.md)|
+|[useReducer]|[useReducer](./401-read/useReducer.md)|'
+|[Hash-Table]|[Hash-Table](./401-read/Hash-Table.md)|
+
 
 
 
