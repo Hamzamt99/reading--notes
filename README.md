@@ -84,7 +84,9 @@
 |[Context]|[Context](./401-read/Context.md)|
 |[graph]|[graph](./401-read/graphs.md)|
 |[login-auth]|[Login-Auth](./401-read/Login-Auth.md)|
-|[API-Integration.md]|[API-Integration.md](./401-read/API-Integration.md)|
+|[API-Integration]|[API-Integration](./401-read/API-Integration.md)|
+|[Application-State-with-Redux]|[Application-State-with-Redux](./401-read/Application-State-with-Redux.md)|
+
 
 
 
